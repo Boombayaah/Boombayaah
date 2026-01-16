@@ -11,7 +11,7 @@ My curiosity drives me to explore how intelligent systems are built and integrat
 My current focus includes:
 * **Artificial Intelligence**,
 * **Automation**, and
-* **Internet of (Every)Things**, where software, data, and systems engineering intersect, also the human.
+* **Internet of Things**, where software, data, and systems engineering intersect, also the human.
 
 ---
 
